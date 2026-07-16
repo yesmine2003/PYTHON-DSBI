@@ -1,9 +1,9 @@
-# 🐍 Python Learning Project - From Fundamentals to Data Analysis
+#  Python Learning Project - From Fundamentals to Data Analysis
 
-## 📖 About the Project
+##  About the Project
 This repository gathers a collection of Jupyter notebooks documenting my learning journey in Python. The goal of this project is to practically explore data structures, basic algorithms, as well as the initial steps of data manipulation (Data Science).
 
-## 🚀 Skills and Concepts Covered
+##  Skills and Concepts Covered
 
 The project is structured as progressive "Challenges":
 
@@ -28,7 +28,7 @@ The project is structured as progressive "Challenges":
 *   Importing and reading databases from Excel files (`liquor_store_sales.xlsx`) using the `pandas` library (`read_excel`)[cite: 9].
 *   Initial exploration of DataFrames: visualizing the first rows with `df.head()`, extracting specific columns, and using `df.describe()` to get descriptive statistics[cite: 9].
 
-## 🛠️ Technologies and Libraries Used
+##  Technologies and Libraries Used
 *   **Language:** Python 3
 *   **Environment:** Jupyter Notebook
 *   **Standard Libraries:** `math`, `random`, `operator`[cite: 6, 7, 8].
